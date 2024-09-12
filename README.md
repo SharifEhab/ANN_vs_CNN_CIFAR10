@@ -4,7 +4,7 @@
 ## Overview
 This project aims to compare the performance of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) on the CIFAR-10 dataset, a standard benchmark for image classification tasks. By implementing both models, we explore their effectiveness in handling image data, analyze their strengths and weaknesses, and evaluate their performance based on various metrics.
 
-![Alt text](![image](https://github.com/user-attachments/assets/48210c79-72de-4abf-a8a7-fb7f1e4be230)
+![image](https://github.com/user-attachments/assets/9abf25ab-502d-4454-8184-69f04f882bde)
 
 
 ## Dataset
